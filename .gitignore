@@ -1,0 +1,6 @@
+config.txt
+data/
+*.exe 
+
+# bisa untuk menyimpan folder contoh baris 2
+# bisa menuliskan sebuah pola misal tidak mau menyimpan semua file exe ( baris 3 )
